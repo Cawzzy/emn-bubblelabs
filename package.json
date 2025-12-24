@@ -1,7 +1,6 @@
 {
   "name": "emn-bubblelabs",
   "version": "0.1.0",
-  "type": "commonjs",
   "private": true,
   "description": "BubbleLab AI agent application",
   "scripts": {
